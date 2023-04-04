@@ -1,0 +1,36 @@
+.ts{
+    background-color: red;
+    opacity: 0.5;
+}
+.vs{
+
+    margin-left: -12.5rem;
+}
+.h{
+    border-radius: 90%;
+    height: 5rem;
+    width: 5rem;
+}
+.c{
+    text-decoration: none;
+}
+.text{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+/* .tz{
+
+    height: 3rem;
+    width: 6rem;
+   margin-left: 21rem;
+   margin-top: -54px;
+}
+.tz1{
+
+    height: 3rem;
+    width: 6rem;
+   margin-left: 21rem;
+   margin-top: -30px;
+
+} */
